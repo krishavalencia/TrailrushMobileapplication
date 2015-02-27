@@ -1,0 +1,62 @@
+/* Empty. Add your own CSS if you like */
+#counter{
+	color: red;
+	font-size: 50px;
+	text-decoration:  bold;
+}
+
+#pairstwo{
+	position: absolute;
+	 padding-left: 10px;
+       padding-right: 10px;
+	margin-left: 70px;
+	width: 100%;
+	text-align: center;
+
+
+}
+
+#pairs{
+	position: absolute;
+	margin-left: 50px;
+	text-align: left;
+}
+ td, th {
+ 
+      padding: 10px;
+      padding-left: 10px;
+       padding-right: 10px;
+   border: 2px black solid;
+	text-align: center;
+
+
+}
+
+#items_table{
+	position: absolute;
+text-align: center;
+
+	  background-color: #ccc;
+
+}
+
+
+#wrapper{
+
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+}
+
+#resulttitle{
+	font-size: 20px;
+	text-decoration: bold;
+
+}
+
+#stationname{
+	font-size: 25px;
+	color: #000066;
+	text-decoration: bold;
+}

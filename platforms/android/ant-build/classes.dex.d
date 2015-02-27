@@ -1,0 +1,25 @@
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes.dex : \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\com\ionicframework\myapp848957\BuildConfig.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\com\ionicframework\myapp848957\CordovaApp.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\com\ionicframework\myapp848957\R$array.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\com\ionicframework\myapp848957\R$attr.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\com\ionicframework\myapp848957\R$color.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\com\ionicframework\myapp848957\R$dimen.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\com\ionicframework\myapp848957\R$drawable.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\com\ionicframework\myapp848957\R$id.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\com\ionicframework\myapp848957\R$layout.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\com\ionicframework\myapp848957\R$menu.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\com\ionicframework\myapp848957\R$raw.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\com\ionicframework\myapp848957\R$string.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\com\ionicframework\myapp848957\R$xml.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\com\ionicframework\myapp848957\R.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\com\phonegap\plugins\barcodescanner\BarcodeScanner.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$1.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$Action.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$DBQuery.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$DBRunner.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$QueryType.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin.class \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\dexedLibs\classes-8dc48be847d8c981661e15a6d0a09de9.jar \
+C:\Users\kay\Desktop\final\trailrushapp\platforms\android\ant-build\dexedLibs\com.google.zxing.client.android.captureactivity-cf92fa92f2cbd54fef8287a862406579.jar \

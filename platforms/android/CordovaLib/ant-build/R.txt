@@ -1,0 +1,5 @@
+int drawable icon 0x7f020000
+int drawable launcher_icon 0x7f020001
+int drawable screen 0x7f020002
+int drawable share_via_barcode 0x7f020003
+int drawable shopper_icon 0x7f020004
